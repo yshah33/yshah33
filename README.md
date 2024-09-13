@@ -17,9 +17,10 @@ To me, coding is more than writing efficient code—it's about creating impactfu
 
 ### 💡 What I Love Building
 
+- **Robust Software Systems**: Developing scalable, efficient, and user-centric software solutions that blend technical excellence with creative problem-solving.
 - **AI & Machine Learning**: Designing and training advanced models to tackle real-world challenges and improve automation.
-- **Data-Driven Solutions**: Applying data insights to enhance decision-making, optimize processes, and create value.
 - **Innovative Applications**: Crafting engaging and functional software that combines creativity with technology to make a tangible impact.
+- **Data-Driven Solutions**: Applying data insights to enhance decision-making, optimize processes, and create value.
 
 ---
 
