@@ -57,8 +57,21 @@ The fast-evolving tech landscape drives my passion for learning and growth. From
 
 ### 📈 Projects That Showcase My Work
 
-- **15-Puzzle Game Solver**: Developed an AI-driven solver using algorithms like BFS, DFS, and A* to tackle complex puzzles and demonstrate efficient algorithm design.
-- **Chicago Landmark App**: Built an Android application featuring location-based historical information with dynamic layouts and intuitive design to enhance user experience.
+- **[15-Puzzle Game Solver](https://github.com/yshah33/15-puzzle-game-solver)**  
+Developed an AI-driven solver using algorithms like Breadth-First Search (BFS), Depth-First Search (DFS), and A* to solve the 15-puzzle efficiently. Implemented in Python, the solver demonstrates advanced algorithmic thinking and optimization techniques for pathfinding in a constrained environment.
+
+- **[Chicago Landmark App](https://github.com/yshah33/chicago-landmark-app)**  
+Built an Android app in Java to provide users with detailed, location-based historical information about landmarks in Chicago. The app utilizes dynamic layouts and Google Maps integration, offering users an intuitive and interactive experience for exploring the city.
+
+- **[Stock Prediction with ML](https://github.com/yshah33/stock-prediction)**  
+Created a machine learning model in Python to predict profit margins for Fortune 500 companies. The model uses historical data and various regression techniques to provide accurate financial forecasts, supporting decision-making for businesses.
+
+- **[Automated Parking Garage Simulation](https://github.com/yshah33/Automated-Parking-Garage)**  
+Designed a C++ program that simulates and optimizes parking management for a multi-level garage. The simulation includes automated entry/exit tracking, parking space assignment, and real-time monitoring, demonstrating problem-solving in system design and logistics.
+
+
+Check out these projects and more on my [GitHub](https://github.com/yshah33) for a deeper dive into my work!
+
 
 ---
 
