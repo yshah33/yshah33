@@ -70,7 +70,7 @@ Created a machine learning model in Python to predict profit margins for Fortune
 Designed a C++ program that simulates and optimizes parking management for a multi-level garage. The simulation includes automated entry/exit tracking, parking space assignment, and real-time monitoring, demonstrating problem-solving in system design and logistics.
 
 
-Check out these projects and more on my [GitHub](https://github.com/yshah33) for a deeper dive into my work!
+Check out these projects and more on my [GitHub](https://github.com/yshah33?tab=repositories) for a deeper dive into my work!
 
 
 ---
