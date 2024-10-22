@@ -30,7 +30,7 @@ My skill set equips me to tackle diverse software engineering projects:
 
 - **Languages**: C++/C, Java, Python, MySQL, C#, Angular, JavaScript, Node.js, Shell Script, Golang
 - **Frameworks & Tools**: Git/GitHub, IntelliJ, VS Code, PyCharm, Docker, CML, Figma, Unity 3D, Android Studio
-- **Expertise**: Full-stack Development, AI/ML, Data Science, Algorithm Design, Agile Methodologies
+- **Expertise**: Software Engineering, Full-stack Development, AI/ML, Data Science, Algorithm Design, Agile Methodologies
 
 ---
 
