@@ -2,7 +2,7 @@
 
 **Software Engineer at AbbVie** | **CS @ UIC Alumni**
 
-I specialize in developing scalable and efficient software solutions, with a strong focus on automation and system integration. I am 
+I specialize in developing scalable and efficient software solutions, with a strong focus on automation and system integration.
 
 
 ### 🚀 What I’m Currently Working On
