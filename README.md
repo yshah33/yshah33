@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yashwi Shah
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yashwi Shah!
 ===================================================================================================================================
 
-Software Engineer @ AbbVie
+Software Engineer @ AbbVie | CS @ UIC Alumni
 --------------------------
 
 I'm a software engineer passionate about building impactful solutions. I specialize in full-stack development, machine learning, and mobile apps. I graduated summa cum laude in Computer Science from the University of Illinois Chicago, and I’m always exploring new technologies and collaborating on projects.
