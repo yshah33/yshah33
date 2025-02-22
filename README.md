@@ -1,6 +1,6 @@
 # Hello, I'm Yashwi Shah! 👋
 
-### 👩‍💻 Software Engineer | 🎓 Computer Science Graduate (Summa Cum Laude recipient) | 🌟 Tech Enthusiast  
+### 👩‍💻 Software Engineer | 🎓 Computer Science Graduate | 🌟 Tech Enthusiast  
 
 ---
 
